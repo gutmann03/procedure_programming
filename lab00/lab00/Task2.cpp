@@ -1,4 +1,6 @@
-#include<math.h>
+double myAbs(double value) {
+    return value < 0.0 ? -value : value;
+}
 
 double mySin(double x, double epsilon) {
     double denominator, sinx;
@@ -11,6 +13,6 @@ double mySin(double x, double epsilon) {
         temp = -temp * x * x / denominator;
         sinx = sinx + temp;
         i = i + 1;
-    } while (epsilon <= fabs(temp));
+    } while (epsilon <= myAbs(temp));
     return sinx;
 }
