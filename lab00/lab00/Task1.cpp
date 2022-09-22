@@ -1,3 +1,5 @@
+// Developed by Smetaniuk on 22.09.2022
+
 /*
 Tn - element of sequence.
 Tn=1 = -x/n * Tn-1

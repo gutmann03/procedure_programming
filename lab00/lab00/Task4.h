@@ -1,3 +1,5 @@
+// Developed by Smetaniuk on 22.09.2022
+
 #pragma once
 
 int GCD_Loop(int value1, int value2);

@@ -1,3 +1,5 @@
+// Developed by Smetaniuk on 22.09.2022
+
 double myAbs(double value) {
     return value < 0.0 ? -value : value;
 }
