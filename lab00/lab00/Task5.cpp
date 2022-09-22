@@ -1,3 +1,5 @@
+// Developed by Smetaniuk on 22.09.2022
+
 double funcChebyshev(unsigned int n, double x) {
     double t1 = x;
     double t2 = 1.0;
