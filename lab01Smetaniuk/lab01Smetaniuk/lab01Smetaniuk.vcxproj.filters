@@ -27,6 +27,9 @@
     <ClCompile Include="ln.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="abs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cos.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ln.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="abs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
