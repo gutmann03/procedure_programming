@@ -18,30 +18,12 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cos.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="pow.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ln.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="abs.cpp">
+    <ClCompile Include="maxT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cos.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="pow.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ln.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="abs.h">
+    <ClInclude Include="maxT.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
