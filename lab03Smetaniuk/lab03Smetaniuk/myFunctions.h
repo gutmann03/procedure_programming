@@ -5,3 +5,6 @@
 #pragma once
 
 double gauss(double, double);
+double powExpWhole(int);
+double powExp(double, double);
+double powExpFract(double, double);
