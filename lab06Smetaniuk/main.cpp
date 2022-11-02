@@ -4,7 +4,6 @@
 
 #include <iostream>
 #include <cassert>
-//#include "myFunctions.h"
 using namespace std;
 
 // swap replaces two elements with each other.
