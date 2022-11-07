@@ -79,6 +79,9 @@ int main() {
         cout<<"output array: ";
         printArray(sortedArr, size);
         cout<<endl<<endl;
+
+        delete[] arr;
+        delete[] sortedArr;
     }
 
     cout<<"Second check."<<endl;
@@ -94,6 +97,9 @@ int main() {
         cout<<"output array: ";
         printArray(sortedArr, size);
         cout<<endl<<endl;
+
+        delete[] arr;
+        delete[] sortedArr;
     }
 
     cout<<"Third check."<<endl;
@@ -109,5 +115,8 @@ int main() {
         cout<<"output array: ";
         printArray(sortedArr, size);
         cout<<endl<<endl;
+
+        delete[] arr;
+        delete[] sortedArr;
     }
 }
